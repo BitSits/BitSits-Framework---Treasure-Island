@@ -26,5 +26,5 @@ Track [Cold Water](http://www.jamendo.com/en/track/34408) Album [Life's Path](ht
 And
 [Oryx - LOFI Fantasy 2D/3D](http://forums.tigsource.com/index.php?topic=8970.0) used under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/). 
 
-##The game uses
-[Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+##Physics
+The game uses [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
