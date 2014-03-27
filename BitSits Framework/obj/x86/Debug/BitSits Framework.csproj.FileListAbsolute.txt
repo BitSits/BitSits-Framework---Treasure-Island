@@ -1,0 +1,42 @@
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\blank.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\gradient.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\menuBackground.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerIdle.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerWalk.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\ship.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land0.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land1.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land2.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land3.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\water0.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\water1.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\sandBed.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\collect.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\heart.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\enemy0.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\enemy1.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\healthBar.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\gameOver.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\levelUp.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\retry.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\crossMark.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\tutorial.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Fonts\Visitor TT2 BRK 40.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerDie.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Fonts\debugFont.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level1.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level2.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level3.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level4.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level0.xnb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Audio\Audio.xgs
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Treasure Island.exe
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Treasure Island.pdb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Box2D.XNA.dll
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Box2D.XNA.pdb
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\obj\x86\Debug\Treasure Island.exe
+C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\obj\x86\Debug\Treasure Island.pdb

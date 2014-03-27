@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\blank.png</Source>
+      <Name>Graphics\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\blank.xnb</Output>
+      <Time>2010-09-15T23:19:57.359375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gradient.png</Source>
+      <Name>Graphics\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\gradient.xnb</Output>
+      <Time>2010-09-15T23:19:57.40625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\menuBackground.png</Source>
+      <Name>Graphics\menuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\menuBackground.xnb</Output>
+      <Time>2010-12-22T13:52:51.671875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\playerIdle.png</Source>
+      <Name>Graphics\playerIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerIdle.xnb</Output>
+      <Time>2010-12-19T18:42:29.34375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\playerWalk.png</Source>
+      <Name>Graphics\playerWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerWalk.xnb</Output>
+      <Time>2010-12-19T18:42:28.78125+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ship.png</Source>
+      <Name>Graphics\ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\ship.xnb</Output>
+      <Time>2010-12-19T18:21:38.5625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\land0.png</Source>
+      <Name>Graphics\land0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land0.xnb</Output>
+      <Time>2010-12-19T20:09:11.875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\land1.png</Source>
+      <Name>Graphics\land1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land1.xnb</Output>
+      <Time>2010-12-19T20:09:12.25+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\land2.png</Source>
+      <Name>Graphics\land2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land2.xnb</Output>
+      <Time>2010-12-19T20:09:11.546875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\land3.png</Source>
+      <Name>Graphics\land3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\land3.xnb</Output>
+      <Time>2010-12-19T20:09:11.875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\water0.png</Source>
+      <Name>Graphics\water0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\water0.xnb</Output>
+      <Time>2010-12-19T20:15:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\water1.png</Source>
+      <Name>Graphics\water1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\water1.xnb</Output>
+      <Time>2010-12-19T20:15:07.984375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\sandBed.png</Source>
+      <Name>Graphics\sandBed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\sandBed.xnb</Output>
+      <Time>2010-12-19T21:12:29.046875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\collect.png</Source>
+      <Name>Graphics\collect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\collect.xnb</Output>
+      <Time>2010-12-20T02:48:52.359375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\heart.png</Source>
+      <Name>Graphics\heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\heart.xnb</Output>
+      <Time>2010-12-20T00:54:24.359375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\enemy0.png</Source>
+      <Name>Graphics\enemy0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\enemy0.xnb</Output>
+      <Time>2010-12-20T01:20:11.109375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\enemy1.png</Source>
+      <Name>Graphics\enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\enemy1.xnb</Output>
+      <Time>2010-12-20T02:39:13.3125+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\healthBar.png</Source>
+      <Name>Graphics\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\healthBar.xnb</Output>
+      <Time>2010-12-20T01:32:24.375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gameOver.png</Source>
+      <Name>Graphics\gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\gameOver.xnb</Output>
+      <Time>2010-12-20T06:17:31.265625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\levelUp.png</Source>
+      <Name>Graphics\levelUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\levelUp.xnb</Output>
+      <Time>2010-12-20T06:17:31.796875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\retry.png</Source>
+      <Name>Graphics\retry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\retry.xnb</Output>
+      <Time>2010-12-20T03:27:01.828125+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\crossMark.png</Source>
+      <Name>Graphics\crossMark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\crossMark.xnb</Output>
+      <Time>2010-12-20T03:58:57.015625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\tutorial.png</Source>
+      <Name>Graphics\tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\tutorial.xnb</Output>
+      <Time>2010-12-20T04:02:43+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Visitor TT2 BRK 40.png</Source>
+      <Name>Fonts\Visitor TT2 BRK 40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Fonts\Visitor TT2 BRK 40.xnb</Output>
+      <Time>2010-12-20T04:04:10.515625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\playerDie.png</Source>
+      <Name>Graphics\playerDie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Graphics\playerDie.xnb</Output>
+      <Time>2010-12-20T04:44:16.34375+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\debugFont.spritefont</Source>
+      <Name>Fonts\debugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Fonts\debugFont.xnb</Output>
+      <Time>2010-12-20T03:08:43.21875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level1.xml</Source>
+      <Name>Levels\level1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level1.xnb</Output>
+      <Time>2010-12-20T06:26:50.03125+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level2.xml</Source>
+      <Name>Levels\level2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level2.xnb</Output>
+      <Time>2010-12-20T06:26:46.546875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level3.xml</Source>
+      <Name>Levels\level3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level3.xnb</Output>
+      <Time>2010-12-20T06:26:35.671875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level4.xml</Source>
+      <Name>Levels\level4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level4.xnb</Output>
+      <Time>2010-12-20T05:49:36.796875+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Levels\level0.xml</Source>
+      <Name>Levels\level0</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\Levels\level0.xnb</Output>
+      <Time>2010-12-26T02:57:40.328125+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Maya Agarwal\Desktop\Treasure Island\BitSits Framework - Treasure Island\BitSits Framework\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-25T09:10:26.341348+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

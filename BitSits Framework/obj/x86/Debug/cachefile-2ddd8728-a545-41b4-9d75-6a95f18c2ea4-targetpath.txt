@@ -1,0 +1,34 @@
+Content\Graphics\blank.xnb
+Content\Graphics\gradient.xnb
+Content\Graphics\menuBackground.xnb
+Content\Graphics\playerIdle.xnb
+Content\Graphics\playerWalk.xnb
+Content\Graphics\ship.xnb
+Content\Graphics\land0.xnb
+Content\Graphics\land1.xnb
+Content\Graphics\land2.xnb
+Content\Graphics\land3.xnb
+Content\Graphics\water0.xnb
+Content\Graphics\water1.xnb
+Content\Graphics\sandBed.xnb
+Content\Graphics\collect.xnb
+Content\Graphics\heart.xnb
+Content\Graphics\enemy0.xnb
+Content\Graphics\enemy1.xnb
+Content\Graphics\healthBar.xnb
+Content\Graphics\gameOver.xnb
+Content\Graphics\levelUp.xnb
+Content\Graphics\retry.xnb
+Content\Graphics\crossMark.xnb
+Content\Graphics\tutorial.xnb
+Content\Fonts\Visitor TT2 BRK 40.xnb
+Content\Graphics\playerDie.xnb
+Content\Fonts\debugFont.xnb
+Content\Levels\level1.xnb
+Content\Levels\level2.xnb
+Content\Levels\level3.xnb
+Content\Levels\level4.xnb
+Content\Levels\level0.xnb
+Content\Audio\Audio.xgs
+Content\Audio\Sound Bank.xsb
+Content\Audio\Wave Bank.xwb
