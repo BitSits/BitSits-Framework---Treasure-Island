@@ -3,6 +3,8 @@ BitSits-Framework---Treasure-Island
 
 Treasure Island http://suvozit.com/2010/12/treasure-island.html
 
+Treasure Island by Shubhajit Saha is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
 #Instructions
 Use WASD or arrow keys to move around. Collect as many treasure chest as you can. Find the cross mark to go to the next level. To move to the next island use the boat.
 Esc for help and pause screen.
@@ -26,6 +28,3 @@ And
 
 ##The game uses
 [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
-
-
-Treasure Island by Shubhajit Saha is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
