@@ -22,7 +22,7 @@ Esc for help and pause screen.
 
 Troubleshooting
 ---
-If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
+If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
 
 
 Credits
