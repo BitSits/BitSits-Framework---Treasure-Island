@@ -22,7 +22,7 @@ Esc for help and pause screen.
 
 Troubleshooting
 ---
-If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
+If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
 
 
 Credits
@@ -45,6 +45,9 @@ License
 This work by [BitSits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 
+
+[.NET Framework 4.0]:http://www.microsoft.com/en-in/download/details.aspx?id=17718
+[XNA Framework Redistributable 4.0]:http://www.microsoft.com/en-in/download/details.aspx?id=20914
 
 [.NET Framework 3.5 SP1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
