@@ -6,15 +6,20 @@ I am taking part in 19th [Ludum Dare] Competition. Its a It’s a 48-hour solo-g
 
 I have to work really fast to complete it on time.
 
+[Blogger](https://bitsits.blogspot.com/2010/12/ludum-dare-19-work-in-progress.html)
+[Tumblr](https://bitsits.tumblr.com/post/96205252485/ludum-dare-19-work-in-progress)
+
 Ludum Dare #19 - 6min Before Dead line
 ===
 Did it at last. Submitted the game just 6min before deadline. Here are some of the screen shots of the game in action. 
-
 
 ![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island1.png)
 ![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island2.png)
 
 Here is my [compo entry]. SFXR just saved my time in the final hour. There are some errors in the mechanics though.
+
+[Blogger](https://bitsits.blogspot.com/2010/12/ludum-dare-19-6min-before-dead-line.html)
+[Tumblr](https://bitsits.tumblr.com/post/96206086005/ludum-dare-19-6min-before-dead-line-did-it-at)
 
 Treasure Island
 ===
@@ -33,18 +38,15 @@ Download Executable
 [Treasure Island.zip][zip] (3.13 MB)  
 [Treasure Island][source] (Source)
 
-
 Instructions
 ---
 Use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or <kbd>arrow</kbd> keys to move around. Collect as many treasure chest as you can. Find the cross mark to go to the next level. To move to the next island use the boat.
 
 <kbd>Esc</kbd> for help and pause screen.
 
-
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
-
 
 Credits
 ---
@@ -60,13 +62,11 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
 ![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 3.5 SP1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
