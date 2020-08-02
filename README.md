@@ -2,7 +2,7 @@ Ludum Dare #19 - Work In Progress
 ===
 I am taking part in 19th [Ludum Dare] Competition. Its a It’s a 48-hour solo-game-development-challenge-competition-thing. This is how my game looks 11 hrs before submission. 
 
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island%20working.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island%20working.png)
 
 I have to work really fast to complete it on time.
 
@@ -10,8 +10,9 @@ Ludum Dare #19 - 6min Before Dead line
 ===
 Did it at last. Submitted the game just 6min before deadline. Here are some of the screen shots of the game in action. 
 
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island1.png)
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island2.png)
+
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island1.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island2.png)
 
 Here is my [compo entry]. SFXR just saved my time in the final hour. There are some errors in the mechanics though.
 
@@ -23,7 +24,7 @@ Link to [compo entry](http://www.ludumdare.com/compo/ludum-dare-19/?action=rate&
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island3.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/Treasure%20Island3.png)
 
 Download Executable
 ---
@@ -62,7 +63,7 @@ Credits
 
 License
 ---
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
